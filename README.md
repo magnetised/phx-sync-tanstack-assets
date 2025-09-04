@@ -1,0 +1,1 @@
+assets from tanstack db + vite generator
